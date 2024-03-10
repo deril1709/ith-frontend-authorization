@@ -1,2 +1,2 @@
 # ith-frontend-authorization
-Vanilla js
+Login Page sso ith
